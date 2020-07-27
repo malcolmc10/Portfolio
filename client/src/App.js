@@ -9,6 +9,7 @@ import Projects from './Components/Projects'
 import Title from './Components/Title'
 import MyForm from './Components/Contact'
 
+
 export default class App extends Component {
   render() {
     return (
@@ -18,7 +19,7 @@ export default class App extends Component {
           <Header />
         </div>
 
-        <div className="bg-teal-400 py-4 flex flex-wrap">
+        <div className="bg-teal-400 py-4 flex flex-wrap" id="About">
           <About />
         </div>
 
@@ -28,14 +29,14 @@ export default class App extends Component {
         </div>
 
 
-        <div className="py-8 bg-yellow-400 flex flex-wrap">
+        <div className="py-8 bg-yellow-400 flex flex-wrap" id="Projects">
 
           <Projects />
         </div>
 
-        <div className="bg-pink-500 py-32 mt-1">
+        <div className="bg-pink-400 py-32 mt-1" id="MyForm">
           <MyForm/>
-
+          
         </div>
 
 
