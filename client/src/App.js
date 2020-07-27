@@ -34,9 +34,9 @@ export default class App extends Component {
           <Projects />
         </div>
 
-        <div className="bg-pink-400 py-32 mt-1" id="MyForm">
+        <div className="bg-pink-400 py-32 mt-1 flex justify-center" id="MyForm">
           <MyForm/>
-          
+          <img src={Colins} className="h-56"></img>
         </div>
 
 
