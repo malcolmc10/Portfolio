@@ -17,6 +17,7 @@ export default class Projects extends Component {
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-2 ml-24">
                     <img class="w-full" src={Greedos} alt="Sunset in the mountains"></img>
                     <div class="px-6 py-4">
+                        <h1 className="font-bold">Greedos</h1>
                         <p class="text-gray-700 text-base">
                             Greedos is a intergalactic bounty board for aspiring and experienced bounty hunters across the galaxy. This website shows a list of star wars characters and the information on each of the characters including, eye color, weight, name and if their bounty worth.
                 </p>
@@ -41,6 +42,7 @@ export default class Projects extends Component {
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white ">
                     <img class="w-full" src={receipebox} alt="Sunset in the mountains"></img>
                     <div class="px-6 py-4">
+                        <h1 className="font-bold">receipebox</h1>
                         <p class="text-gray-700 text-base">
                             This is a food recipe app that allows the user to select popular dishes based on meal type, country, cook time and follow a step by step guide to making a delicious meal. receipebox allows a user to find the receipes they love using a desktop, tablet or phone.
                 </p>
@@ -65,6 +67,7 @@ export default class Projects extends Component {
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white ml-2 ">
                     <img class="w-full" src={Schmedium} alt="Sunset in the mountains"></img>
                     <div class="px-6 py-4">
+                        <h1 className="font-bold">Schmedium</h1>
                         <p class="text-gray-700 text-base">
                             This application is a blog that is small, simple, and easy to use. Schmedium is a movie blog that can give you short,reliable and quick reviews of your favorite movies. Save time with your favorite movie series using Schmedium.
                 </p>

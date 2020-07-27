@@ -18,7 +18,7 @@ import Colins from '../assets/Colins.png'
 export default class About extends Component {
     render() {
         return (
-            <div className="my-5 mx-auto max-w-xl shadow-md bg-white py-4 rounded-l-md rounded-r-lg">
+            <div className="my-5 mx-auto max-w-xl shadow-md bg-white py-4 rounded-l-md rounded-r-lg ">
                 
                 <h1 className="text-center justify-content-center text-2xl text-black m-3 font-bold">Who is Colin Malcolm?</h1>
                 
