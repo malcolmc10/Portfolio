@@ -15,18 +15,18 @@ export default class Header extends Component {
   </div>
   <div className="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
     <div className="text-sm lg:flex-grow">
-      <a href="#responsive-header" className="block mt-4 font-bold lg:inline-block lg:mt-0 text-yellow-400 hover:text-pink-400 mr-4 ">
+      <a href="#About" className="block mt-4 font-bold lg:inline-block lg:mt-0 text-yellow-400 hover:text-pink-400 mr-4 ">
         Who Am I?
       </a>
-      <a href="#responsive-header" className="block mt-4 font-bold lg:inline-block lg:mt-0 text-pink-400 hover:text-teal-400 mr-4">
+      <a href="#Projects" className="block mt-4 font-bold lg:inline-block lg:mt-0 text-pink-400 hover:text-teal-400 mr-4">
         Projects
       </a>
-      <a href="#responsive-header" className="block mt-4 font-bold lg:inline-block lg:mt-0 text-teal-400 hover:text-pink-400">
+      <a href="#Resume" className="block mt-4 font-bold lg:inline-block lg:mt-0 text-teal-400 hover:text-pink-400">
         Resume
       </a>
     </div>
     <div>
-      <a href="#" class="inline-block font-bold text-sm px-4 py-2 leading-none border rounded text-pink-400 border-teal-400 hover:border-pink-400 hover:text-teal-400 hover:bg-black mt-4 lg:mt-0">Contact Me</a>
+      <a href="#Contact" class="inline-block font-bold text-sm px-4 py-2 leading-none border rounded text-pink-400 border-teal-400 hover:border-pink-400 hover:text-teal-400 hover:bg-black mt-4 lg:mt-0">Contact Me</a>
     </div>
   </div>
 </nav>

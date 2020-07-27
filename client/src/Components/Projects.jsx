@@ -28,8 +28,8 @@ export default class Projects extends Component {
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">SWAPI-API</span>
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">Netlify</span>
                         <div className="flex flex-wrap justify-between">
-                            <a><img src={github} className="h-6 w-6" /></a>
-                            <a><img src={interweb} className="h-6 w-6" /></a>
+                            <a href="https://github.com/malcolmc10/GreedosBB/blob/master/README.md"><img src={github} className="h-6 w-6" /></a>
+                            <a href="https://greedosbb.netlify.app/"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
@@ -52,8 +52,8 @@ export default class Projects extends Component {
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">Heroku</span>
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">Surge</span>
                         <div className="flex flex-wrap justify-between">
-                        <a><img src={github} className="h-6 w-6" /></a>
-                        <a><img src={interweb} className="h-6 w-6" /></a>
+                        <a href="https://github.com/malcolmc10/P3-recipebox/blob/dev/p3-worksheet.md"><img src={github} className="h-6 w-6" /></a>
+                        <a href="http://foodiesandgoodiesrecipebox.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
@@ -77,8 +77,8 @@ export default class Projects extends Component {
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">Heroku</span>
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">Surge</span>
                         <div className="flex flex-wrap justify-between">
-                            <a><img src={github} className="h-6 w-6" /></a>
-                            <a><img src={interweb} className="h-6 w-6" /></a>
+                            <a href="https://github.com/malcolmc10/Schmedium"><img src={github} className="h-6 w-6" /></a>
+                            <a href="http://schmediumpotter.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
