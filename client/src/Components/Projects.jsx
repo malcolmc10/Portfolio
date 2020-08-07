@@ -4,7 +4,7 @@ import receipebox from '../assets/receipebox.png'
 import Schmedium from '../assets/Schmedium.png'
 import github from '../assets/github.svg'
 import interweb from '../assets/interweb.svg'
-import CPM from '../assets/CPM.png'
+import Hello from '../assets/Hello.jpg'
 
 
 
@@ -92,7 +92,7 @@ export default class Projects extends Component {
                 {/* Project 4 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-2 ml-24 mt-4">
-                    <img class="w-full" src={CPM} alt="Sunset in the mountains"></img>
+                    <img class="w-full" src={Hello} alt="Sunset in the mountains"></img>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Colin's Portfolio</h1>
                         <p class="text-gray-700 text-base">
