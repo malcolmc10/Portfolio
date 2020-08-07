@@ -3,12 +3,11 @@ import Header from './Components/Header';
 import Footer from './Components/Footer';
 import './tailwind.output.css';
 import About from './Components/About';
-import Resume from './Components/Resume';
 import Colins from './assets/Colins.png'
 import Projects from './Components/Projects'
 import Title from './Components/Title'
 import MyForm from './Components/Contact'
-import lean from './assets/lean.png'
+import Intro from './Components/Intro'
 
 export default class App extends Component {
   render() {
@@ -19,7 +18,13 @@ export default class App extends Component {
           <Header />
         </div>
 
-        <div className="bg-teal-400 py-4 flex justify-center" id="About">
+        <div>
+
+        <Intro/>
+
+        </div>
+
+        <div className="bg-teal-400 py-4 flex justify-center mt-1" id="About">
         
           <About />
           
