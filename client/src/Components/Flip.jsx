@@ -12,7 +12,7 @@ export default class Flip extends Component {
                     <span className=""> &nbsp; playing soccer ⚽️</span>
                     <span> &nbsp; spending time with my family 👩🏽‍🤝‍👨🏻</span>
                     <span>  &nbsp; playing video games 🎮</span>
-                    <span> &nbsp; eatting 🍽</span>
+                    <span> &nbsp; eating 🍽</span>
                     <span>&nbsp; exercising 🏋🏻‍♂️</span>
                 </TextLoop>{" "}
                 
