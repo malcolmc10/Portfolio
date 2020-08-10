@@ -8,6 +8,7 @@ import Projects from './Components/Projects'
 import Title from './Components/Title'
 import MyForm from './Components/Contact'
 import Intro from './Components/Intro'
+import Flip from './Components/Flip'
 
 export default class App extends Component {
   render() {
@@ -27,6 +28,7 @@ export default class App extends Component {
         <div className="bg-teal-400 py-4 flex justify-center mt-1" id="About">
         
           <About />
+          
           
         </div>
 

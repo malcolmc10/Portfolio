@@ -11,10 +11,10 @@ import Hello from '../assets/Hello.jpg'
 export default class Projects extends Component {
     render() {
         return (
-            <div className="items-center text-center ml-4 flex flex-wrap justify-between" >
+            <div className="items-center text-center  flex flex-wrap justify-evenly" >
                 {/* project 1 */}
 
-                <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-2 ml-24">
+                <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-2 ">
                     <img class="w-full" src={Greedos} alt="Sunset in the mountains"></img>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Greedos</h1>
@@ -65,7 +65,7 @@ export default class Projects extends Component {
 
                 {/* project 3 */}
 
-                <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white ml-2 mr-8">
+                <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white ml-2">
                     <img class="w-full" src={Schmedium} alt="Sunset in the mountains"></img>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Schmedium</h1>
@@ -91,7 +91,7 @@ export default class Projects extends Component {
 
                 {/* Project 4 */}
 
-                <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-2 ml-24 mt-4">
+                <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-2  mt-4">
                     <img class="w-full" src={Hello} alt="Sunset in the mountains"></img>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Colin's Portfolio</h1>

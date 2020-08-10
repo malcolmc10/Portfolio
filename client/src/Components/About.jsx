@@ -11,7 +11,7 @@ import tailwindcss from '../assets/tailwindcss.svg'
 import nodejs from '../assets/nodejs.svg'
 import express from '../assets/express.svg'
 import heroku from '../assets/heroku.svg'
-import Colins from '../assets/Colins.png'
+import Flip from '../Components/Flip'
 
 
 
@@ -22,7 +22,8 @@ export default class About extends Component {
                 
                 <h1 className="text-center justify-content-center text-2xl text-black m-3 font-bold">Who is Colin Malcolm?</h1>
                 
-                <p className="text-center justify-content-center text-md text-black m-8 ">I am a software engineer with a focus on being a valuable and integral team member. I have a natural passion for technology and problem solving that motivates me to improve my skill set. My previous experience in tech has provided me with the work ethic and mindset to succeed in this ever-growing industry.</p>
+                <p className="text-center justify-content-center text-md text-black m-8 ">I am a software engineer with a focus on being a valuable and integral team member. I have a natural passion for technology and problem solving that motivates me to improve my skill set. My previous experience in tech has provided me with the work ethic and mindset to succeed in this ever-growing industry.</p><br></br>
+                <div className="text-center text-lg"><Flip/></div>
                 
                     <h1 className="text-center justify-content-center text-2xl text-black m-8">What are my Skills?</h1>
 
