@@ -15,7 +15,7 @@ export default class Projects extends Component {
                 {/* project 1 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-2 ">
-                    <img class="w-full" src={Greedos} alt="Sunset in the mountains"></img>
+                    <a href="https://greedosbb.netlify.app/"><img class="w-full" src={Greedos} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Greedos</h1>
                         <p class="text-gray-700 text-base">
@@ -40,7 +40,7 @@ export default class Projects extends Component {
                 {/* Project 2 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white ">
-                    <img class="w-full" src={receipebox} alt="Sunset in the mountains"></img>
+                <a href="http://foodiesandgoodiesrecipebox.surge.sh/"><img class="w-full" src={receipebox} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">RecipeBox</h1>
                         <p class="text-gray-700 text-base">
@@ -66,7 +66,7 @@ export default class Projects extends Component {
                 {/* project 3 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white ml-2">
-                    <img class="w-full" src={Schmedium} alt="Sunset in the mountains"></img>
+                <a href="http://schmediumpotter.surge.sh/"><img class="w-full" src={Schmedium} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Schmedium</h1>
                         <p class="text-gray-700 text-base">
@@ -92,7 +92,7 @@ export default class Projects extends Component {
                 {/* Project 4 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-2  mt-4">
-                    <img class="w-full" src={Hello} alt="Sunset in the mountains"></img>
+                <a href="ttp://iamcolinmalcolm.surge.sh/"><img class="w-full" src={Hello} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Colin's Portfolio</h1>
                         <p class="text-gray-700 text-base">
