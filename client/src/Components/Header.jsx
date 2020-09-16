@@ -7,7 +7,7 @@ export default class Header extends Component {
                 <div className="fixed justify-between w-screen">
                 <nav className="flex items-center justify-between flex-wrap bg-black p-6">
   <div class="flex font-bold items-center flex-shrink-0 text-white mr-6" >
-    <span className="font-semibold text-xl tracking-tight">Colin Malcolm</span>
+    <a href="/"><span className="font-semibold text-xl tracking-tight">Colin Malcolm</span></a>
   </div>
   <div className="block lg:hidden" >
     {/* <button className="flex items-center font-bold px-3 py-2 border rounded text-white border-gray-200 hover:text-white hover:border-white">
