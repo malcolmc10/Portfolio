@@ -13,6 +13,8 @@ export default class Footer extends Component {
                <a href="https://twitter.com/Themalcolmmind"><img src={twitter} className="w-5 h-5 ml-4"/></a>
                <a href ="https://www.linkedin.com/in/colinpmalcolm/"><img src={linkedin} className="w-5 h-5 ml-4" /></a>
                <a href ="https://medium.com/@colinmalcolm"><img src={medium} className="w-5 h-5 ml-4" /></a>
+            
+            <p className="text-white ml-32 font-bold">© Colin Malcolm 2020</p>
             </div>
         )
     }

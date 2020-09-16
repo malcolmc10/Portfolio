@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Header extends Component {
     render() {
         return (
-            <div className=" ">
+            <div>
                 <div className="fixed justify-between w-screen">
                 <nav className="flex items-center justify-between flex-wrap bg-black p-6">
   <div class="flex font-bold items-center flex-shrink-0 text-white mr-6" >
