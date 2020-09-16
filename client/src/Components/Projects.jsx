@@ -27,7 +27,7 @@ export default class Projects extends Component {
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">JavaScript</span>
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">CSS</span>
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">SWAPI-API</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">Netlify</span>
+                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700" >Netlify</span>
                         <div className="flex flex-wrap justify-between">
                             <a href="https://github.com/malcolmc10/GreedosBB/blob/master/README.md"><img src={github} className="h-6 w-6" /></a>
                             <a href="https://greedosbb.netlify.app/"><img src={interweb} className="h-6 w-6" /></a>
@@ -70,7 +70,7 @@ export default class Projects extends Component {
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Schmedium</h1>
                         <p class="text-gray-700 text-base">
-                            This application is a blog that is small, simple, and easy to use. Schmedium is a movie blog that can give you short,reliable and quick reviews of your favorite movies. The app includes full CRUD and Authenticationand styling with TailwindCSS.
+                            This application is a blog that is small, simple, and easy to use. Schmedium is a movie blog that can give you short,reliable and quick reviews of your favorite movies. The app includes full CRUD and Authentication and styling with TailwindCSS.
                 </p>
                     </div>
                     <div class="px-6 py-4">
