@@ -12,6 +12,8 @@ import nodejs from '../assets/nodejs.svg'
 import express from '../assets/express.svg'
 import heroku from '../assets/heroku.svg'
 import Flip from '../Components/Flip'
+import sass from '../assets/Sass.svg'
+import git from '../assets/git.svg'
 
 
 
@@ -28,18 +30,20 @@ export default class About extends Component {
                     <h1 className="text-center justify-content-center text-2xl text-black m-8">What are my Skills?</h1>
 
                     <div className="flex flex-wrap justify-content-evenly py-1 overflow-hidden ">
-                    <img src={html} className="w-8 h-8 ml-1"/>
-                    <img src={css} className="w-8 h-8 ml-4"/>
-                    <img src={js} className="w-8 h-8 ml-4"/>
-                    <img src={postgresql} className="w-8 h-8 ml-4"/>
-                    <img src={react} className="w-8 h-8 ml-4"/>
-                    <img src={ruby} className="w-8 h-8 ml-4"/>
-                    <img src={rails} className="w-8 h-8 ml-4"/>
-                    <img src={mongodb} className="w-8 h-8 ml-4"/>
-                    <img src={tailwindcss} className="w-8 h-8 ml-4"/>
-                    <img src={nodejs} className="w-8 h-8 ml-4"/>
-                    <img src={heroku} className="w-8 h-8 ml-4"/>
-                    <img src={express} className="w-8 h-8 ml-4 mr-1"/>
+                    <img src={html} className="w-10 h-10 ml-1"/>
+                    <img src={css} className="w-10 h-10 ml-4"/>
+                    <img src={js} className="w-10 h-10 ml-4 mt-2"/>
+                    <img src={postgresql} className="w-10 h-10 ml-4 mt-2"/>
+                    <img src={react} className="w-10 h-10 ml-4 mt-2"/>
+                    <img src={ruby} className="w-10 h-10 ml-4 mt-2"/>
+                    <img src={rails} className="w-10 h-10 ml-4 mt-2"/>
+                    <img src={tailwindcss} className="w-10 h-10 ml-4 mt-2"/>
+                    <img src={nodejs} className="w-10 h-10 ml-4 mt-2" />
+                    <img src={heroku} className="w-10 h-10 ml-1 mt-2"/>
+                    <img src={express} className="w-10 h-13 ml-4 mr-1 mt-2"/>
+                    <img src={mongodb} className="w-13 h-6 ml-4 mt-2"/>
+                    <img src={sass} className="w-10 h-10 ml-4 mt-2"/>
+                    <img src={git} className="w-10 h-10 ml-4 mt-2"/>
 
                     </div>
                 
