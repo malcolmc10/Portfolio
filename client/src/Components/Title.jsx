@@ -4,7 +4,7 @@ export default class Title extends Component {
     render() {
         return (
             <div>
-               <h1 className="text-5xl font-bold ">Passion Projects</h1> 
+               <h1 className=" text-5xl font-bold">Passion Projects</h1> 
             </div>
         )
     }
