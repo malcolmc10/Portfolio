@@ -22,7 +22,7 @@ export default class Header extends Component {
       <a href="#Projects" className="block mt-4 font-bold lg:inline-block lg:mt-0 text-yellow-400 hover:text-teal-400 mr-4">
         Projects
       </a>
-      <a href="https://pdfhost.io/v/ipx8GRIF4_Colin_Malcolm_SWE_Resume.pdf" className="block mt-4 font-bold lg:inline-block lg:mt-0 text-pink-400 hover:text-indigo-400">
+      <a href="https://pdfhost.io/v/pax7BNZQ6_Colin_Malcolm_SWE_Resume.pdf" className="block mt-4 font-bold lg:inline-block lg:mt-0 text-pink-400 hover:text-indigo-400">
         Resume
       </a>
     </div>
