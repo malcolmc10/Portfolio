@@ -30,7 +30,7 @@ export default class About extends Component {
                     <h1 className="text-center justify-content-center text-2xl text-black m-8">What are my Skills?</h1>
 
                     <div className="flex flex-wrap justify-content-evenly py-1 overflow-hidden ">
-                    <img src={html} className="w-10 h-10 ml-1"/>
+                    <img src={html} className="w-10 h-10 ml-4"/>
                     <img src={css} className="w-10 h-10 ml-4"/>
                     <img src={js} className="w-10 h-10 ml-4 mt-2"/>
                     <img src={postgresql} className="w-10 h-10 ml-4 mt-2"/>
@@ -40,7 +40,7 @@ export default class About extends Component {
                     <img src={tailwindcss} className="w-10 h-10 ml-4 mt-2"/>
                     <img src={nodejs} className="w-10 h-10 ml-4 mt-2" />
                     <img src={heroku} className="w-10 h-10 ml-1 mt-2"/>
-                    <img src={express} className="w-10 h-13 ml-4 mr-1 mt-2"/>
+                    <img src={express} className="w-10 h-13 ml-6 mr-1 mt-2"/>
                     <img src={mongodb} className="w-13 h-6 ml-4 mt-2"/>
                     <img src={sass} className="w-10 h-10 ml-4 mt-2"/>
                     <img src={git} className="w-10 h-10 ml-4 mt-2"/>
