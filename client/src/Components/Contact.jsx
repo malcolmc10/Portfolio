@@ -32,7 +32,7 @@ export default class MyForm extends React.Component {
 
         <textarea type="text" name="message" className="h-32 border border-gray-400 rounded-lg py-2 px-4 mb-4 block w-full appearance-none mt-2"/><br></br>
 
-        {status === "SUCCESS" ? <p>Thanks!</p> : <button className="bg-indigo-700 hover:bg-indigo-500 text-white py-2 px-5 rounded focus:outline-none focus:shadow-outline">Submit</button>}
+        {status === "SUCCESS" ? <p>Thanks! Can't wait to connect!</p> : <button className="bg-indigo-700 hover:bg-indigo-500 text-white py-2 px-5 rounded focus:outline-none focus:shadow-outline">Submit</button>}
         {status === "ERROR" && <p>Ooops! There was an error.</p>}
         </div>
       </form>
