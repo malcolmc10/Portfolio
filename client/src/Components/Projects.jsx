@@ -133,7 +133,7 @@ export default class Projects extends Component {
                         
                         <div className="flex flex-wrap justify-between">
                             <a href="https://github.com/malcolmc10/Schmedium"><img src={github} className="h-6 w-6" /></a>
-                            <a href="http://schmediumpotter.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
+                            <a href="http://spotifyme.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
