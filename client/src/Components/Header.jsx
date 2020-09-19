@@ -25,7 +25,7 @@ export default class Header extends Component {
       </div>
     {/* </div> */}
     <div>
-      <a href="#MyForm" class="inline-block font-bold text-sm px-4 py-2 leading-none border rounded text-pink-400 border-teal-400 hover:border-pink-400 hover:text-teal-400 hover:bg-black text-sm sm:text-base">Contact Me</a>
+      <a href="#MyForm" class="inline-block font-bold text-sm px-4 py-2 leading-none border rounded text-pink-400 border-teal-400 hover:border-pink-400 hover:text-teal-400 hover:bg-black text-xs sm:text-base">Contact Me</a>
     </div>
   {/* </div> */}
   
