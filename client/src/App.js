@@ -19,7 +19,7 @@ export default class App extends Component {
           <Header />
         </div>
 
-        <div>
+        <div className="pt-10 sm:pt-0">
 
         <Intro/>
 
