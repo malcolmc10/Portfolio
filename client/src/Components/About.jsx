@@ -29,7 +29,7 @@ export default class About extends Component {
                 
                     <h1 className="text-center justify-content-center text-2xl text-black m-8">What are my Skills?</h1>
 
-                    <div className="flex flex-wrap justify-content-evenly py-1 overflow-hidden ">
+                    <div className="flex flex-grow flex-wrap justify-content-evenly py-1 overflow-hidden">
                     <img src={html} className="w-10 h-10 ml-4 mt-2"/>
                     <img src={css} className="w-10 h-10 ml-4 mt-2"/>
                     <img src={js} className="w-10 h-10 ml-4 mt-2"/>

@@ -17,7 +17,7 @@ export default class MyForm extends React.Component {
         onSubmit={this.submitForm}
         action="https://formspree.io/xrgyrdbl"
         method="POST"
-      className="flex justify-center ml-32">
+      className="flex justify-center ml-24">
         <div className="my-5 mx-auto max-w-xl shadow-md p-8 bg-white overflow-hidden content-center rounded-l-md rounded-r-lg">
             <h1 className="font-bold text-xl text-center mb-4">Let's Stay in Contact!</h1>
         <label className="text-lg font-bold ">Name:</label><br></br>

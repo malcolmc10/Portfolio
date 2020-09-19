@@ -15,7 +15,7 @@ export default class App extends Component {
     return (
       <div>
 
-        <div className="mb-1 .absolute">
+        <div className="mb-1 .absolute ">
           <Header />
         </div>
 
