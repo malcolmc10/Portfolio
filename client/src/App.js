@@ -15,7 +15,7 @@ export default class App extends Component {
     return (
       <div>
 
-        <div className="mb-1 .absolute ">
+        <div >
           <Header />
         </div>
 
@@ -45,7 +45,7 @@ export default class App extends Component {
 
         <div className="bg-pink-400 py-32 mt-1 flex justify-center" id="MyForm">
           <MyForm/>
-          <img src={Colins} className="h-56"></img>
+          <img src={Colins} className="h-56 hidden sm:inline-block"></img>
         </div>
 
 
