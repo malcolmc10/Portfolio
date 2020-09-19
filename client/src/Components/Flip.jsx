@@ -14,6 +14,8 @@ export default class Flip extends Component {
                     <span>  &nbsp; playing video games 🎮</span>
                     <span> &nbsp; eating 🍽</span>
                     <span>&nbsp; exercising 🏋🏻‍♂️</span>
+                    <span>&nbsp; read 📚</span>
+                    <span>&nbsp; drink coffee ☕️</span>
                 </TextLoop>{" "}
                 
             </h3>

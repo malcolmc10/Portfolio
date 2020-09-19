@@ -24,11 +24,11 @@ export default class Projects extends Component {
                 </p>
                     </div>
                     <div class="px-6 py-4">
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">React</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">JavaScript</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">CSS</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">SWAPI-API</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 " >Netlify</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">React</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">JavaScript</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">CSS</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">SWAPI-API</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 " >Netlify</span>
                         <div className="flex flex-wrap justify-between">
                             <a href="https://github.com/malcolmc10/GreedosBB/blob/master/README.md"><img src={github} className="h-6 w-6" /></a>
                             <a href="https://greedosbb.netlify.app/"><img src={interweb} className="h-6 w-6" /></a>
@@ -49,12 +49,12 @@ export default class Projects extends Component {
                 </p>
                     </div>
                     <div class="px-6 py-4">
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">React</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">MongoDB</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">Express</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">Heroku</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">Surge</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">TailwindCSS</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">React</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">MongoDB</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">Express</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">Heroku</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">Surge</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">TailwindCSS</span>
                         <div className="flex flex-wrap justify-between">
                         <a href="https://github.com/malcolmc10/P3-recipebox/blob/dev/p3-worksheet.md"><img src={github} className="h-6 w-6" /></a>
                         <a href="http://foodiesandgoodiesrecipebox.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
@@ -75,12 +75,12 @@ export default class Projects extends Component {
                 </p>
                     </div>
                     <div class="px-6 py-4">
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">React</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">TailwindCSS</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Ruby on Rails</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">PostgreSQL</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Heroku</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Surge</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">React</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">TailwindCSS</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Ruby on Rails</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">PostgreSQL</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Heroku</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Surge</span>
                         
                         <div className="flex flex-wrap justify-between">
                             <a href="https://github.com/malcolmc10/Schmedium"><img src={github} className="h-6 w-6" /></a>
@@ -101,9 +101,9 @@ export default class Projects extends Component {
                 </p>
                     </div>
                     <div class="px-6 py-4">
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">React</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Surge</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">TailwindCSS</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">React</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Surge</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">TailwindCSS</span>
                         <div className="flex flex-wrap justify-between">
                             <a href="https://github.com/malcolmc10/Portfolio"><img src={github} className="h-6 w-6" /></a>
                             <a href="http://iamcolinmalcolm.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
@@ -124,12 +124,12 @@ export default class Projects extends Component {
                 </p>
                     </div>
                     <div class="px-6 py-4">
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">React</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Sass</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">JavaScript</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">HTML</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">React Router</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">Surge</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">React</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Sass</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">JavaScript</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">HTML</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">React Router</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700">Surge</span>
                         
                         <div className="flex flex-wrap justify-between">
                             <a href="https://github.com/malcolmc10/Schmedium"><img src={github} className="h-6 w-6" /></a>

@@ -15,7 +15,7 @@ export default class App extends Component {
     return (
       <div>
 
-        <div >
+        <div id="header">
           <Header />
         </div>
 
