@@ -8,7 +8,7 @@ import Projects from './Components/Projects'
 import Title from './Components/Title'
 import MyForm from './Components/Contact'
 import Intro from './Components/Intro'
-import Flip from './Components/Flip'
+// import Flip from './Components/Flip'
 
 export default class App extends Component {
   render() {
@@ -19,7 +19,7 @@ export default class App extends Component {
           <Header />
         </div>
 
-        <div className="pt-10 sm:pt-0">
+        <div className="pt-16 sm:pt-0">
 
         <Intro/>
 
