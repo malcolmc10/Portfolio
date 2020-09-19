@@ -9,7 +9,7 @@ export default class Flip extends Component {
             <h3>
                 When I am not coding I am <br></br>
                 <TextLoop>
-                    <span className=""> &nbsp; playing soccer ⚽️</span>
+                    <span className="z-10"> &nbsp; playing soccer ⚽️</span>
                     <span> &nbsp; spending time with my family 👩🏽‍🤝‍👨🏻</span>
                     <span>  &nbsp; playing video games 🎮</span>
                     <span> &nbsp; eating 🍽</span>

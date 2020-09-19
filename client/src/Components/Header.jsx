@@ -4,7 +4,7 @@ export default class Header extends Component {
     render() {
         return (
             <div id="header">
-                <div className="fixed justify-between w-screen">
+                <div className="fixed justify-between w-screen z-50">
                 <nav className="bg-black p-6 flex font-bold items-center justify-between text-white">
 
     <div>

@@ -33,7 +33,7 @@ export default class App extends Component {
         </div>
 
 
-        <div className="py-8 bg-yellow-400 flex flex-wrap mt-1 justify-center">
+        <div className="py-8 bg-yellow-400 flex flex-wrap mt-1 justify-center" id="Title">
           <Title />
         </div>
 
