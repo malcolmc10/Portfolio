@@ -24,7 +24,7 @@ export default class About extends Component {
                 
                 <h1 className="text-center justify-content-center text-2xl text-black m-3 font-bold">Who is Colin Malcolm?</h1>
                 
-                <p className="text-center justify-content-center text-md text-black m-8 ">I am a software engineer with a focus on being a valuable and integral team member. I have a natural passion for technology and problem solving that motivates me to improve my skill set. My previous experience in tech has provided me with the work ethic and mindset to succeed in this ever-growing industry.</p><br></br>
+                <p className="text-center justify-content-center text-md text-black m-8 ">I am a software engineer with a background in marketing and communications. My process is a combination of a level-headed approach with an eye for detail and my team first mentality.  Every problem has multiple solutions and I am committed to building a stronger understanding through my work.</p><br></br>
                 <div className="text-center text-lg"><Flip/></div>
                 
                     <h1 className="text-center justify-content-center text-2xl text-black m-8">What are my Skills?</h1>
