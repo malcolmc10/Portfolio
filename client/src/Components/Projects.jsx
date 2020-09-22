@@ -132,7 +132,7 @@ export default class Projects extends Component {
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700">Surge</span>
                         
                         <div className="flex flex-wrap justify-between">
-                            <a href="https://github.com/malcolmc10/Schmedium"><img src={github} className="h-6 w-6" /></a>
+                            <a href="https://github.com/malcolmc10/SpotifyMe"><img src={github} className="h-6 w-6" /></a>
                             <a href="http://spotifyme.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
