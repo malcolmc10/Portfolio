@@ -4,7 +4,7 @@ import receipebox from '../assets/receipebox.png'
 import Schmedium from '../assets/Schmedium.png'
 import github from '../assets/github.svg'
 import interweb from '../assets/interweb.svg'
-import Hello from '../assets/Hello.jpg'
+import Covid from '../assets/Covid.png'
 import spotify from '../assets/Spotify.png'
 
 
@@ -93,20 +93,24 @@ export default class Projects extends Component {
                 {/* Project 4 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-0 mt-4 sm:mr-2  mt-4">
-                <a href="ttp://iamcolinmalcolm.surge.sh/"><img class="w-full" src={Hello} alt="Sunset in the mountains"></img></a>
+                <a href="https://covid-country-e9bff.web.app/"><img class="w-full" src={Covid} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
-                        <h1 className="font-bold">Colin's Portfolio</h1>
+                        <h1 className="font-bold">COVID Country</h1>
                         <p class="text-gray-700 text-base">
-                            Using React I created a fun, personalized portfolio. In this portfolio you will find my passion projects, resume, and a bit of personality. Using TailwindCSS I designed my portfolio to be inviting and easy to navigate between sections.
+                            Using the disease.sh API, Leaflet, and Material UI I created an interactive tool that allows the user to track the numbers of cases, recoveries, and deaths in countries all over the world using a line graph, bubbles, and charts.
                 </p>
                     </div>
                     <div class="px-6 py-4">
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">React</span>
-                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Surge</span>
-                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">TailwindCSS</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Firebase</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Material UI</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Leaflet</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Chart.js</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Numeral</span>
+                        <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">CSS</span>
                         <div className="flex flex-wrap justify-between">
-                            <a href="https://github.com/malcolmc10/Portfolio"><img src={github} className="h-6 w-6" /></a>
-                            <a href="http://iamcolinmalcolm.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
+                            <a href="https://github.com/malcolmc10/Pandemic/blob/main/README.md"><img src={github} className="h-6 w-6" /></a>
+                            <a href="https://covid-country-e9bff.web.app/"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
@@ -136,6 +140,12 @@ export default class Projects extends Component {
                             <a href="http://spotifyme.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
+
+
+
+                    {/* Project 6 */}
+
+                    
 
                 </div>
 
