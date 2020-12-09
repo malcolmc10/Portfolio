@@ -18,7 +18,7 @@ export default class Header extends Component {
       <a href="#Title" className=" font-bold text-yellow-400 hover:text-teal-400 mr-4 text-xs sm:text-base">
         Projects
       </a>
-      <a href="https://pdfhost.io/v/kCNP9vs18_Colin_Malcolm_Technical_Resume.pdf" target="_blank" className=" font-bold  text-pink-400 hover:text-indigo-400 text-xs sm:text-base">
+      <a href="https://pdfhost.io/v/raT1H9vCo_Colin_Malcolm_Technical_Resume.pdf" target="_blank" className=" font-bold  text-pink-400 hover:text-indigo-400 text-xs sm:text-base">
         Resume
       </a>
       </div>
