@@ -16,7 +16,7 @@ export default class Projects extends Component {
                 {/* project 1 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-0 mt-4 sm:mr-2 mt-4">
-                    <a href="https://greedosbb.netlify.app/"><img class="w-full" src={Greedos} alt="Sunset in the mountains"></img></a>
+                    <a href="https://greedosbb.netlify.app/" target="_blank" ><img class="w-full" src={Greedos} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Greedos</h1>
                         <p class="text-gray-700 text-base">
@@ -30,8 +30,8 @@ export default class Projects extends Component {
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">SWAPI-API</span>
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 " >Netlify</span>
                         <div className="flex flex-wrap justify-between">
-                            <a href="https://github.com/malcolmc10/GreedosBB/blob/master/README.md"><img src={github} className="h-6 w-6" /></a>
-                            <a href="https://greedosbb.netlify.app/"><img src={interweb} className="h-6 w-6" /></a>
+                            <a href="https://github.com/malcolmc10/GreedosBB/blob/master/README.md" target="_blank"><img src={github} className="h-6 w-6" /></a>
+                            <a href="https://greedosbb.netlify.app/" target="_blank"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
@@ -41,7 +41,7 @@ export default class Projects extends Component {
                 {/* Project 2 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mt-4 ">
-                <a href="http://foodiesandgoodiesrecipebox.surge.sh/"><img class="w-full" src={receipebox} alt="Sunset in the mountains"></img></a>
+                <a href="http://foodiesandgoodiesrecipebox.surge.sh/" target="_blank"><img class="w-full" src={receipebox} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">RecipeBox</h1>
                         <p class="text-gray-700 text-base">
@@ -56,8 +56,8 @@ export default class Projects extends Component {
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">Surge</span>
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2 ">TailwindCSS</span>
                         <div className="flex flex-wrap justify-between">
-                        <a href="https://github.com/malcolmc10/P3-recipebox/blob/dev/p3-worksheet.md"><img src={github} className="h-6 w-6" /></a>
-                        <a href="http://foodiesandgoodiesrecipebox.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
+                        <a href="https://github.com/malcolmc10/P3-recipebox/blob/dev/p3-worksheet.md" target="_blank"><img src={github} className="h-6 w-6" /></a>
+                        <a href="http://foodiesandgoodiesrecipebox.surge.sh/" target="_blank"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
@@ -67,7 +67,7 @@ export default class Projects extends Component {
                 {/* project 3 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white ml-0 mt-4 sm:ml-2 mt-4">
-                <a href="http://schmediumpotter.surge.sh/"><img class="w-full" src={Schmedium} alt="Sunset in the mountains"></img></a>
+                <a href="http://schmediumpotter.surge.sh/" target="_blank"><img class="w-full" src={Schmedium} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Schmedium</h1>
                         <p class="text-gray-700 text-base">
@@ -83,8 +83,8 @@ export default class Projects extends Component {
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Surge</span>
                         
                         <div className="flex flex-wrap justify-between">
-                            <a href="https://github.com/malcolmc10/Schmedium"><img src={github} className="h-6 w-6" /></a>
-                            <a href="http://schmediumpotter.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
+                            <a href="https://github.com/malcolmc10/Schmedium" target="_blank"><img src={github} className="h-6 w-6" /></a>
+                            <a href="http://schmediumpotter.surge.sh/" target="_blank"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
@@ -93,7 +93,7 @@ export default class Projects extends Component {
                 {/* Project 4 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white mr-0 mt-4 sm:mr-2  mt-4">
-                <a href="https://covid-country-e9bff.web.app/"><img class="w-full" src={Covid} alt="Sunset in the mountains"></img></a>
+                <a href="https://covid-country-e9bff.web.app/" target="_blank"><img class="w-full" src={Covid} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">COVID Country</h1>
                         <p class="text-gray-700 text-base">
@@ -109,8 +109,8 @@ export default class Projects extends Component {
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Numeral</span>
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700 mr-2">CSS</span>
                         <div className="flex flex-wrap justify-between">
-                            <a href="https://github.com/malcolmc10/Pandemic/blob/main/README.md"><img src={github} className="h-6 w-6" /></a>
-                            <a href="https://covid-country-e9bff.web.app/"><img src={interweb} className="h-6 w-6" /></a>
+                            <a href="https://github.com/malcolmc10/Pandemic/blob/main/README.md" target="_blank"><img src={github} className="h-6 w-6" /></a>
+                            <a href="https://covid-country-e9bff.web.app/" target="_blank"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
@@ -120,7 +120,7 @@ export default class Projects extends Component {
                 {/* project 5 */}
 
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white ml-0 mt-4 sm:ml-2 mt-4">
-                <a href="http://spotifyme.surge.sh/"><img class="w-full" src={spotify} alt="Sunset in the mountains"></img></a>
+                <a href="http://spotifyme.surge.sh/" target="_blank"><img class="w-full" src={spotify} alt="Sunset in the mountains"></img></a>
                     <div class="px-6 py-4">
                         <h1 className="font-bold">Spotify UI Clone</h1>
                         <p class="text-gray-700 text-base">
@@ -136,8 +136,8 @@ export default class Projects extends Component {
                         <span class="inline-block  px-3 py-1 text-sm font-semibold text-gray-700">Surge</span>
                         
                         <div className="flex flex-wrap justify-between">
-                            <a href="https://github.com/malcolmc10/SpotifyMe"><img src={github} className="h-6 w-6" /></a>
-                            <a href="http://spotifyme.surge.sh/"><img src={interweb} className="h-6 w-6" /></a>
+                            <a href="https://github.com/malcolmc10/SpotifyMe" target="_blank"><img src={github} className="h-6 w-6" /></a>
+                            <a href="http://spotifyme.surge.sh/" target="_blank"><img src={interweb} className="h-6 w-6" /></a>
                         </div>
                     </div>
 
